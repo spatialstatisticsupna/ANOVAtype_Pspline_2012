@@ -3,7 +3,7 @@
 Stochastic Environmental Research and Risk Assessment. 2012;  26(6), 835-845.
 ------------------------------------------------------------------------
 
-This repository contains the R code to fit the model described in the paper entitled *"A P-spline ANOVA type model in space-time disease mapping"* (Ugarte et al., 2012) 
+This repository contains the R code to fit the model described in the paper *"A P-spline ANOVA type model in space-time disease mapping"* (Ugarte et al., 2012) 
 
 ## **Table of contents**
 ------------------------------------------------------------------------
