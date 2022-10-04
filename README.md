@@ -8,11 +8,11 @@ This repository contains the R code to fit the model described in the paper enti
 ## **Table of contents**
 ------------------------------------------------------------------------
 
--   [R code](https://github.com/spatialstatisticsupna/Using-mortality-to-predict-incidence-for-rare-and-lethal-cancers-in-very-small-areas#R-code)
+-   [R code](https://github.com/spatialstatisticsupna/ANOVAtype_Pspline_2012#r-code)
 
--   [References](https://github.com/spatialstatisticsupna/Using-mortality-to-predict-incidence-for-rare-and-lethal-cancers-in-very-small-areas#References)
+-   [Acknowledgements](https://github.com/spatialstatisticsupna/ANOVAtype_Pspline_2012#acknowledgements)
 
--   [Acknowledgements](https://github.com/spatialstatisticsupna/Using-mortality-to-predict-incidence-for-rare-and-lethal-cancers-in-very-small-areas#Acknowledgements)
+-   [References](https://github.com/spatialstatisticsupna/ANOVAtype_Pspline_2012#references)
 
 # **R code**
 ------------------------------------------------------------------------
