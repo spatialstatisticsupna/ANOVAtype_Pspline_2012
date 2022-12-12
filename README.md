@@ -17,7 +17,7 @@ This repository contains the R code to fit the model described in the paper *"A 
 # **R code**
 ------------------------------------------------------------------------
 
-R code to fit the multivariate spatio-temporal models described in the paper plus the code to create figures and tables is included [here](https://github.com/spatialstatisticsupna/Using-mortality-to-predict-incidence-for-rare-and-lethal-cancers-in-very-small-areas/blob/master/R/).
+R code to fit the multivariate spatio-temporal models described in the paper plus the code to create figures and tables is included [here](https://github.com/spatialstatisticsupna/ANOVAtype_Pspline_2012/tree/main/R/).
 
 # **Acknowledgements**
 ------------------------------------------------------------------------
